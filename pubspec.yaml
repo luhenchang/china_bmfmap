@@ -2,7 +2,7 @@ name: china_bmfmap
 description: The flutter_bmfmap is a flutter plugin of basic map for baidu map, You can use it to develop map page for Flutter application.
 version: 1.0.1
 author: fei wang <luhenchang1314@gmail.com>
-homepage: https://lbsyun.baidu.com/index.php?title=flutter/loc
+homepage: https://github.com/luhenchang/china_bmfmap.git
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
@@ -15,6 +15,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  Your pubspec.yaml includes an "author" section which is no longer used and may be removed.
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
