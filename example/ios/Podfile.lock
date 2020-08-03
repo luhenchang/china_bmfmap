@@ -1,0 +1,36 @@
+PODS:
+  - BaiduMapKit (5.4.0)
+  - Flutter (1.0.0)
+  - flutter_bmfbase (0.0.1):
+    - BaiduMapKit (= 5.4.0)
+    - Flutter
+  - flutter_bmfmap (1.0.0):
+    - BaiduMapKit (= 5.4.0)
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_bmfbase (from `.symlinks/plugins/flutter_bmfbase/ios`)
+  - flutter_bmfmap (from `.symlinks/plugins/flutter_bmfmap/ios`)
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - BaiduMapKit
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_bmfbase:
+    :path: ".symlinks/plugins/flutter_bmfbase/ios"
+  flutter_bmfmap:
+    :path: ".symlinks/plugins/flutter_bmfmap/ios"
+
+SPEC CHECKSUMS:
+  BaiduMapKit: 81380395e5cc7e66f13e97de3a670b6f9ea31eb7
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_bmfbase: 8ac2c94f3f110daec8e499dc13f8a983b0c8ee40
+  flutter_bmfmap: 57030919b16b5353649fbea77b6143129f7a4ff1
+
+PODFILE CHECKSUM: 0119c2368f52d116a4d0ca7ddc68d2ce9c8c03ed
+
+COCOAPODS: 1.10.0.beta.1
