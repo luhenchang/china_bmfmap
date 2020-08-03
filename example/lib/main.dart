@@ -17,8 +17,6 @@ void main() {
     // 请在主工程的Manifest文件里设置，详细配置方法请参考官网(https://lbsyun.baidu.com/)demo
     BMFMapSDK.setCoordType(BMF_COORD_TYPE.BD09LL);
   }
-  ;
-
   runApp(new MyApp());
 }
 
