@@ -1,7 +1,7 @@
 name: flutter_bmfmap
 description: The flutter_bmfmap is a flutter plugin of basic map for baidu map, You can use it to develop map page for Flutter application.
 version: 1.0.1
-author: fei wang
+author: fei wang <luhenchang1314@gmail.com>
 homepage: https://github.com/luhenchang/china_bmfmap.git
 environment:
   sdk: ">=2.1.0 <3.0.0"
